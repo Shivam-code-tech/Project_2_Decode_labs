@@ -5,9 +5,9 @@
 ## 📌 Project Overview
 Project 2 marks the **Discovery Phase**, transitioning raw operational assets into clear business narratives through **Exploratory Data Analysis (EDA)**. The objective is to calculate basic descriptive boundaries, isolate high-value outlier anomalies, and map growth trends using the production-ready baseline data.
 
-##  Core Analytical Findings & Observations
+## 📊 Core Analytical Findings & Observations
 
-### 1. General Descriptive Metrics
+## 1. General Descriptive Metrics
 * **Total Transactions Audited:** 1,200 unique records.
 * **Average Unit Price:** ~$388.92 per item.
 * **Average Basket Value (TotalPrice):** ~$1,544.75 per order checkout.
