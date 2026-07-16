@@ -27,3 +27,6 @@ Project 2 marks the **Discovery Phase**, transitioning raw operational assets in
 Execute the diagnostic script to automatically populate your summary matrix metrics:
 ```bash
 python exploratory_analysis.py
+
+---
+**Note**: All required files, datasets and code are already uploaded in this respositary(Project_1_Decode_labs)
