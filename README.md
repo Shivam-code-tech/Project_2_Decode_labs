@@ -22,6 +22,3 @@ Project 2 marks the **Discovery Phase**, transitioning raw operational assets in
 * **Outlier Threshold Bounds:** Calculated at the 95th percentile, establishing an upper threshold boundary at **$3,683.47**.
 * **Isolated Transactions:** 60 premium checkout profiles exceed this limit.
 * **Observation:** Outlier transactions are primarily driven by bulk consumer purchasing configurations (orders combining quantities of 4 or 5 units on high-value items like Laptops and Desks).
-
----
-**Note**: All required files, datasets and code are already uploaded in this respositary(Project_1_Decode_labs)
