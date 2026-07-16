@@ -23,10 +23,5 @@ Project 2 marks the **Discovery Phase**, transitioning raw operational assets in
 * **Isolated Transactions:** 60 premium checkout profiles exceed this limit.
 * **Observation:** Outlier transactions are primarily driven by bulk consumer purchasing configurations (orders combining quantities of 4 or 5 units on high-value items like Laptops and Desks).
 
-## 💻 Execution Steps
-Execute the diagnostic script to automatically populate your summary matrix metrics:
-```bash
-python exploratory_analysis.py
-
 ---
 **Note**: All required files, datasets and code are already uploaded in this respositary(Project_1_Decode_labs)
