@@ -7,7 +7,7 @@ Project 2 marks the **Discovery Phase**, transitioning raw operational assets in
 
 ## 📊 Core Analytical Findings & Observations
 
-## 1. General Descriptive Metrics
+### 1. General Descriptive Metrics
 * **Total Transactions Audited:** 1,200 unique records.
 * **Average Unit Price:** ~$388.92 per item.
 * **Average Basket Value (TotalPrice):** ~$1,544.75 per order checkout.
